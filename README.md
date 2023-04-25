@@ -23,13 +23,13 @@ ignore_dirs=("node_modules")
 2. Make the script executable:
 
 ```bash
-chmod +x project-stats.sh
+chmod +x project-report.sh
 ```
 
 Run the script:
 
 ```bash
-./project-stats.sh
+./project-report.sh
 ```
 
 The script will output the number of lines and words in your project, excluding the specified ignore directories.
